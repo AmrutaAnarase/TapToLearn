@@ -1,7 +1,7 @@
 # TapToLearn
 
-Hello, I'm Amruta! Welocome to Tap-to-learn mobile app.  
-This is preschool learning app with interactive and kids friendly interface to learn alphabets, numbers, shapes, animals, birds, and many more.
+Hello, I'm Amruta! Welocome to Tap-to-learn iOS app.  
+This is preschool learning app (works with both iPhone and iPad) with interactive and kids friendly interface to learn alphabets, numbers, shapes, animals, birds, and many more.
 
 ## Support
 To reach me in case of any support related to TapToLearn app, please open a new issue here and I'll get back to you.
